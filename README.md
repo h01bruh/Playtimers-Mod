@@ -1,3 +1,3 @@
-# Playtimers-Mod A26510
-Mod web contents &amp; scripts database.\ncreated by Vito_H01!
+# Playtimers-Mod 
+Mod web contents &amp; scripts database.  created by Vito_H01! creation_date:A26510.742.8
 
