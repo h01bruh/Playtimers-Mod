@@ -3,6 +3,8 @@
   "arHackedBlacklistedPlayersID": ["76561199474972382", "76561199407266586", "76561199480627465", "76561199624642920", "76561199864958522", "76561199770021877", "76561199513763453", "76561198962378479", "76561199708642198", "76561199217906880"],
   "arYarnListedPlayersID":[],
   "arYarnListedPlayersCurName": [],
+  "arAGCListedPlayersID": [],
+  "arAGCListedPlayersCurName": [],
   "arAdminPlayersCurName": ["H01!Plays", "CrystalFire", "Project:Maxtime the epic"],
   "arAdminPlayersID": ["76561199527743391", "76561199515594293", "76561198791869496"],
   "arCriticalBlacklistedID": [],
