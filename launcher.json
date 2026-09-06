@@ -1,0 +1,15 @@
+{
+  "Version": 1.4,
+  "ModLoaderDownloadUrl": "https://www.mediafire.com/file/xq8hbzscfkxgs4k/Poppy_Playtime_-_Multiplayer.zip/file",
+  "ModLoaderVersion": 1,
+  "ModDownloadURL": "https://www.mediafire.com/file/xdbfz8n1rs0w8fr/Contents.zip/file",
+  "CosmeticModsUrls": {
+    "DeluxeCosmetics": "https://www.mediafire.com/file/6wrt5ysutt4sb8n/DeluxeCosmetics.pak/file",
+    "H01Cosmetics": ""
+  },
+  "CosmeticModsVersions": {
+    "DeluxeCosmetics": 1,
+    "H01Cosmetics": 1
+  },
+  "ChangeLogURL": ""
+}
