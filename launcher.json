@@ -11,8 +11,8 @@
     "DeluxeCosmetics": 1,
     "H01Cosmetics": 1
   },
-  "OfficialArchiveURLs": ["https://www.mediafire.com/file/f7wf3y935ihd24o/H01Cosmetics.pak/file"],
-  "OfficialArchiveNames": ["H01Cosmetics.pak"],
-  "OfficialArchivePaths": ["Playtime_Multiplayer/Content/Paks/H01Mods"],
+  "OfficialArchiveURLs": ["https://www.mediafire.com/file/f7wf3y935ihd24o/H01Cosmetics.pak/file", "https://www.mediafire.com/file/6wrt5ysutt4sb8n/DeluxeCosmetics.pak/file"],
+  "OfficialArchiveNames": ["H01Cosmetics.pak", "DeluxeCosmetics.pak"],
+  "OfficialArchivePaths": ["Playtime_Multiplayer/Content/Paks/H01Mods", "Playtime_Multiplayer/Content/Paks/H01Mods"],
   "ChangeLogURL": ""
 }
