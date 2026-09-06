@@ -11,8 +11,8 @@
     "DeluxeCosmetics": 1,
     "H01Cosmetics": 1
   },
-  "OfficialArchiveURLs": [""],
-  "OfficialArchiveNames": [""],
-  "OfficialArchivePaths": [""],
+  "OfficialArchiveURLs": ["https://www.mediafire.com/file/f7wf3y935ihd24o/H01Cosmetics.pak/file"],
+  "OfficialArchiveNames": ["H01Cosmetics.pak"],
+  "OfficialArchivePaths": ["Playtime_Multiplayer/Content/Paks/H01Mods"],
   "ChangeLogURL": ""
 }
