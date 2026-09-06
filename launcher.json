@@ -11,7 +11,8 @@
     "DeluxeCosmetics": 1,
     "H01Cosmetics": 1
   },
-  "OfficialModPAKURLs": [""],
-  "OfficialModPAKNames": [""],
+  "OfficialArchivePAKURLs": [""],
+  "OfficialArchivePAKNames": [""],
+  "OfficialArchivePaths": [""],
   "ChangeLogURL": ""
 }
