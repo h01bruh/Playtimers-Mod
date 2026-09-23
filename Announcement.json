@@ -1,6 +1,13 @@
 {
   "title": "Phase 3: Forsaken | Playtimers' Mod",
-  "announce_title": "PHASE 3 PATCH NOTE 10/26/2023 | Playtimers' Mod 9/23/2026",
-  "announce_header_params": [""],
-  "announce_content_params": [""],
+  "announce_title": "Phase 3 Patch Notes 10/26/2023 | Playtimers' Mod 9/23/2026",
+  "announce_header_params": ["h01", "h02", "h03"],
+  "announce_content_params": ["c01", "c02", "c03"],
+
+  "h01": "BRAND NEW LOBBY SYSTEM",
+  "c01": "-CUSTOM SESSION PRIVATE LOBBIES: Custom Password, Player Limit, Friends Only\n-NEW LOBBY AREAS\n-SHITPADS\n-RECOLORABLE DEEPFRYERS\n-PARTY CART\n-PIANOS",
+  "h02": "NEW GAME SYSTEM",
+  "c02": "-[ENTER] Chat\n-VOICE CHAT\n-REMOVED JUMP COOLDOWN\n-COSMETICS LOADER (MODS/ORIGINAL)",
+  "h03": "TAG MODE",
+  "c03": ""
 }
