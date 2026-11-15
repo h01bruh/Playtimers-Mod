@@ -1,7 +1,7 @@
 {
   "mod_version": "beta 1.4.3",
   "mod_availableversions": ["beta 1.4.3", "beta 1.4.4"],
-  "mod_topdescription": "Playtimers' Mod allows you to host(tsm1)and join games, invite your friends and multiple playable new gamemodes.",
+  "mod_topdescription": "Playtimers' Mod allows you to host(tsm1)and join games, invite your friends and\nmultiple playable new gamemodes.",
   "mod_tagdescription": "This mod has been combined with TagGamemodeMod.(tsm1)Please make sure TagGamemodeMod mod file is installed,(tsm2)or you may experience losing tag-gameplay functions or glitches(tsm3)during the gameplay.",
   "mod_authordescription": "by Vito_H01!",
   "mod_isindev": true
